@@ -1,5 +1,5 @@
 # Proyecto Final de Análisis y Procesamiento Inteligente de Textos
-# Análisis de sentimientos sobre el contenido lirico de la banda The Betales.
+## Análisis de sentimientos sobre el contenido lirico de la banda The Betales.
 
 El propósito fundamental del análisis inteligente de textos consiste
 en extraer información de utilidad, clasificar y/o interpretar el significado de cierto
@@ -25,7 +25,7 @@ teriores se exploran los procesos necesarios para llevar a cabo dicho análisis 
 conjunto de canciones pertenecientes a la banda «The Beatles» con el fin de determinar
 el cambio de emociones en sus obras a través de diferentes décadas.  
   
-- ### Autores:
+### Autores:
 - #### _Cázares Rodríguez Víctor Manuel_
 - #### _López García Juan Ángel_
 - #### _Morales Mendoza Fernando_
